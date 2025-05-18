@@ -1,0 +1,3 @@
+[submodule "sagefhepoly"]
+	path = sagefhepoly
+	url = https://github.com/robinkoestler/sagefhepoly
